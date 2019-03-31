@@ -5,3 +5,11 @@ authors = ["l1h3r <devin.turner09@gmail.com>"]
 edition = "2018"
 
 [dependencies]
+
+[features]
+default = ["regular"]
+bold = []
+light = []
+medium = []
+regular = []
+retina = []
