@@ -3,6 +3,12 @@ name = "ttf-firacode"
 version = "0.1.0"
 authors = ["l1h3r <devin.turner09@gmail.com>"]
 edition = "2018"
+description = "Fira Code TrueType fonts for Rust."
+repository = "https://github.com/l1h3r/ttf-firacode"
+readme = "README.md"
+keywords = ["truetype", "font", "fira", "code"]
+categories = ["gui"]
+license = "MIT"
 
 [dependencies]
 
